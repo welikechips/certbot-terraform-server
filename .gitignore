@@ -1,0 +1,6 @@
+terraform_id_rsa
+certificate.pfx
+.terraform/
+terraform.tfstate*
+/.idea/
+terraform.tfvars
