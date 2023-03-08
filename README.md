@@ -23,7 +23,3 @@ terraform apply
 terraform destroy
 
 ```
-
-### After provisioning is completed
-
-
