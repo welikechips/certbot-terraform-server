@@ -22,14 +22,8 @@ terraform plan (Only use to plan)
 terraform apply
 terraform destroy
 
-terraform graph | dot -Tpng > images/graph.png
-
-terraform destroy -target=aws_instance.redirector_http_1
 ```
 
 ### After provisioning is completed
 
 
-### Terraform Graph
-
-![Setting Up a listener](/images/graph.png)
